@@ -11,5 +11,7 @@ public class GitTest01 {
 		System.out.println("GitHub...02");
 		System.out.println("Local .....2015-10-29");
 		System.out.println("GitHub...03");
+		System.out.println("GitHub...03");
+		System.out.println("GitHub...03");
 	}
 }
