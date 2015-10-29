@@ -1,0 +1,11 @@
+package git.test;
+
+import org.junit.Test;
+
+public class GitTest01 {
+
+	@Test
+	public void test01(){
+		System.out.println("gittest01.....");
+	}
+}
